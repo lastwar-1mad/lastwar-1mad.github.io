@@ -27,9 +27,6 @@ defaults:
   run:
     shell: bash
 
-env:
-  1KAM_DIR: 1kam/
-
 jobs:
   # Build job
   build:
@@ -61,13 +58,13 @@ jobs:
         run: |
           hugo \
             --gc \
-            --s ${{ env.1KAM_DIR }}\
+            -s 1kam/ \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./1kam/public
 
   # Deployment job
   deploy:
