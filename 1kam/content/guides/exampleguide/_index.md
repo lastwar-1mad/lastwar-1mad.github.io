@@ -1,12 +1,12 @@
 ---
-title: "1KAM"
+title: "Example Guide"
 draft: false
-description: "Hello we are 1KAM."
+description: "Here you can find an example."
 
 authors:
 - andreasaugustin
 tags:
-- home
+- guides
 
 showDate : false
 showDateOnlyInArticle : false
@@ -26,9 +26,4 @@ showAuthor: true
 layoutBackgroundHeaderSpace: false
 ---
 :warning: :construction_worker: under construction :construction_worker: :warning:
-
-Hello!
-
-We are **1KAM** an alliance playing [lastwar][lastwar].
-
-[lastwar]: https://www.lastwar.com/
+Guides
