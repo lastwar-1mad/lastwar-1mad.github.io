@@ -1,12 +1,6 @@
 ---
-title: "1KAM"
+title: "Impressum"
 draft: false
-description: "Hello we are 1KAM."
-
-authors:
-- andreasaugustin
-tags:
-- home
 
 showDate : false
 showDateOnlyInArticle : false
@@ -25,8 +19,15 @@ showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
 ---
-Hello!
 
-We are **1KAM** an alliance playing [lastwar][lastwar].
+## Impressum
 
-[lastwar]: https://www.lastwar.com/
+DevOps Augustin
+
+### Website Besitzer
+
+Andreas Augustin
+
+### Kontakt
+
+[info@andreas-augustin.dev](mailto:info@andreas-augustin.dev)

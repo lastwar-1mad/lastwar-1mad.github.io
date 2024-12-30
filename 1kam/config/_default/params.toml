@@ -22,7 +22,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "img/team2.png" # used as default for background images
-defaultFeaturedImage = "img/team3.pngm" # used as default for featured images in all articles
+defaultFeaturedImage = "img/team3.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -43,7 +43,7 @@ smartTOC = true
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/team4.png" # used in: hero, and card
+  homepageImage = "img/team6.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
