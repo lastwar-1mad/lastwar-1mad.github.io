@@ -1,0 +1,25 @@
+{
+  "name": "Andreas Augustin",
+  "email": "info@andreas-augustin.dev",
+  "imageQuality": 96,
+  "headline": "It's me",
+  "image": "img/authors/andreasaugustin.png",
+  "bio": "Cloud enthusiast",
+  "links": [
+    {
+      "email": "mailto:info@andreas-augustin.dev"
+    },
+    {
+      "link": "https://andreas-augustin.dev/"
+    },
+    {
+      "dev": "https://dev.to/andreasaugustin"
+    },
+    {
+      "github": "https://github.com/AndreasAugustin"
+    },
+    {
+      "ko-fi": "https://ko-fi.com/andreasaugustin"
+    }
+  ]
+}

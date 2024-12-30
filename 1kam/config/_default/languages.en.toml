@@ -1,0 +1,15 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "1KAM"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "img/team1.png"
+secondaryLogo = "img/team2.png"
+description = "LastWar 1Kam alliance"
+# copyright = "Copy, _right?_ :thinking_face:"

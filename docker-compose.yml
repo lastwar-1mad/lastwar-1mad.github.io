@@ -1,0 +1,15 @@
+services:
+  dev:
+    build:
+      context: .
+      target: DEV
+    volumes:
+      - .:/app/
+    ports:
+      - 8080:80
+  docs:
+    build:
+      context: .
+      target: DOCS
+    volumes:
+      - .:/app/
