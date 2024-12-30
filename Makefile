@@ -31,8 +31,4 @@ prune: ## delete the whole environment
 
 .PHONY: serve
 serve:  ## start a dev server
-	hugo server -s site/
-
-.PHONY: commit
-commit:  ## commit to git
-	npx gitmoji -c
+	hugo server -p 8080 -s 1kam/

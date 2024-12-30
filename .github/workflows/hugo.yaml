@@ -27,6 +27,9 @@ defaults:
   run:
     shell: bash
 
+env:
+  1KAM_DIR: 1kam/
+
 jobs:
   # Build job
   build:
@@ -58,6 +61,7 @@ jobs:
         run: |
           hugo \
             --gc \
+            --s ${{ env.1KAM_DIR }}\
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact

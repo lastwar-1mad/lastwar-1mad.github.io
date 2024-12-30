@@ -16,3 +16,7 @@
 
 public/
 node_modules/
+
+.hugo_build.lock
+public/
+resources/
