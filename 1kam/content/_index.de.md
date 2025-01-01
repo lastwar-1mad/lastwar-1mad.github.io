@@ -25,7 +25,6 @@ showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
 ---
-:warning: :construction_worker: under construction :construction_worker: :warning:
 Hallo!
 
 Wir sind **1KAM** eine Allianz die [lastwar][lastwar] spielt.

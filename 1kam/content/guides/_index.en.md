@@ -1,10 +1,10 @@
 ---
-title: "Beispiel Anleitung"
+title: "Guides"
 draft: false
-description: "Nur ein Beispiel einer Anleitung."
+description: "Here you can find some guides for the game."
 
 authors:
-- "andreasaugustin"
+- andreasaugustin
 tags:
 - guides
 
@@ -25,5 +25,4 @@ showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
 ---
-:warning: :construction_worker: under construction :construction_worker: :warning:
-Anleitungen
+Guides

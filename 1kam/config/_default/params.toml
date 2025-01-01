@@ -21,8 +21,8 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/team2.png" # used as default for background images
-defaultFeaturedImage = "img/team3.png" # used as default for featured images in all articles
+defaultBackgroundImage = "img/team6.png" # used as default for background images
+defaultFeaturedImage = "img/team4.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -84,7 +84,7 @@ smartTOC = true
   showZenMode = false
 
 [list]
-  showHero = false
+  showHero = true
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -151,7 +151,7 @@ smartTOC = true
 [buymeacoffee]
   identifier = "andreasaugustin"
   globalWidget = true
-  globalWidgetMessage = "Hello!"
+  globalWidgetMessage = "Hello! Like it? Maybe buy me a coffee :)"
   globalWidgetColor = "#FFDD00"
   globalWidgetPosition = "Right"
 
