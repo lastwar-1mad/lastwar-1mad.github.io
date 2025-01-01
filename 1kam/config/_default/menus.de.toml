@@ -27,6 +27,25 @@ pageRef = "guides"
 weight = 10
 
 [[main]]
+name = "Links"
+
+[[main]]
+parent = "Links"
+name = "lastwartutorial"
+identifier = "lastwartutorial"
+pre = "link"
+url = "https://www.lastwartutorial.com/"
+weight = 400
+
+[[main]]
+parent = "Links"
+name = "caraguatatuba"
+identifier = "caraguatatuba"
+pre = "link"
+url = "https://www.caraguatatuba.de"
+weight = 400
+
+[[main]]
 identifier = "github"
 pre = "github"
 url = "https://github.com//lastwar-1kam/lastwar-1kam.github.io"

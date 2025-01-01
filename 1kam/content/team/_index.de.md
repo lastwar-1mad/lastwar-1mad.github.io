@@ -26,18 +26,17 @@ showAuthor: true
 layoutBackgroundHeaderSpace: false
 
 ---
-:warning: :construction_worker: under construction :construction_worker: :warning:
 
-| name | position | avatar |
-| ------ | -- | --- |
-| **steve0101** | **leader** | ![steve](img/steve.png) |
-| **Kaz Grey**| **warlord** | ![kaz](img/kaz.png) |
-| **SweetWW** | **Muse** | ![sweet](img/sweetWW.png) |
-| **Brigade18** | **Buttler** | ![brigade](img/brigade18.png) |
-| **Tania1702** | | ![tania](img/tania.png) |
-| **ak1291** | | ![ak1291](img/ak1291.png) |
-| **Catville** | | ![cat](img/cat.png) |
-| **Ancienthydra** | | ![hydra](img/hydra.jpg) |
-| **ChrisKes3112** | | ![chris](img/chris.jpg) |
-| **Mimi15** | | ![mimi](img/mimi.jpg) |
-| **andzandz** | | ![andz](img/andz.jpg) |
+| **avatar** | **name** | **position** | **Beschreibung** |
+| ---------- | -------- | ------------ | ---------------- |
+| ![steve](img/steve.png) | **steve0101** | **leader** | Steve ist wie ein Streichholz - kurz und schnell zündend! Geduld gehört nicht unbedingt zu seinen top-Qualifikationen, aber wenn man ihn wirklich braucht, ist er der Hulk der Hilfsbereitschaft und stürzt sich mit voller Power in den Einsatz!  |
+| ![kaz](img/kaz.png) | **Kaz Grey**| **warlord** | Kaz Grey, der Wachhund, der nicht nur bellen kann, sondern auch beißt - und sobald er das tut, beginnt es richtig zu brennen. Er ist der Alarm und das Feuer zugleich! |
+| ![sweet](img/sweetWW.png) | **SweetWW** | **Muse** | Sweet, loyal solange der Preis stimmt, mit Pferdekopf, großer Klappe und noch größerer Knare unterwegs! |
+| ![brigade](img/brigade18.png) | **Brigade18** | **Buttler** | Brigade, ein grummelnder Bär, uner Fels in der Brandung. Wenn er bei einem Kommandanten Honig wittert, gibts kein Halten mehr und die Base wird schneller planiert als man "Stopp!" rufen kann |
+| ![tania](img/tania.png) | **Tania1702** | | Tania, die mit Präzision immer 3x12 trifft, doch in Gesprächen manchmal den Zielpunkt verfehlt - vielleicht liegt es daran, dass sie lieber auf Ziele schießt als auf Wörter? |
+| ![ak1291](img/ak1291.png) | **ak1291** | | AK, rekrutiert von Außerhalb, schnell aufgestiegen zum R4 und das völlig zu Recht! Karriereleiter wurde im Sprint genommen, genau wie feindliche Basen angegangen werden. |
+| ![cat](img/cat.png) | **Catville** | | Catville, ein Paradies für Katzen, ist verrückt nach Kisten wie alle Katzen - meow, meow, meow....klar soweit? |
+| ![hydra](img/hydra.jpg) | **Ancienthydra** | | Hydra, der Mann der nur wenig spricht, doch mit einer Nase wie ein Spürrhund alles riecht - er kam, er sah und er weiß wo die Diamanten liegen! |
+| ![chris](img/chris.jpg) | **ChrisKes3112** | | ChrisKes, der Mann der wenigen Worte. Aber kein problem, seine Taten sind lauter als seine Sätze! |
+| ![mimi](img/mimi.jpg) | **Mimi15** | | Mimi, Gründerin, Mum und Geist in einem -  der wahre Beweis, dass Multitasking in jeder Lebenslage der wahre Trick ist. |
+| ![andz](img/andz.jpg) | **andzandz** | | Andzandz, unser wandelndes Lexikon. Kann zwar die Hälfte der Wiki-Artikel auswendig, ist aber mit Zahlen auf dem Kriegsfuss |
