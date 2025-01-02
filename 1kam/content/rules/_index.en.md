@@ -37,9 +37,17 @@ Here you are able to find our rules:
 
 4. The alliance is committed to supporting attacks from our allies ERAD "The Walking Beer". In return, we also expect support.
 
-5. Trucks and secret missions in our own state (926) are prohibited. Offenses will be punished from next Monday by the conductor event. There will be no more expulsions for the time being. Nevertheless, "the offenders or repeat offenders will be excluded from the conductor and train event for a week. This serves the players who follow the rules as well as the community to avoid future problems with other alliances and is intended to relieve the leadership as well as the R4 and the feeling of the game, as the R5 and R4 hardly get to play anymore because they are mainly confronted with rule violations. In plain language, this means that the conductor does not select any rule breakers to ride along and no one who has broken the rules will be considered in the dice event.
+5. Trucks and secret missions may only be plundered on other servers. In the event of a violation, the perpetrator must provide the injured party with a truck manned by a small troop. If this rule is violated several times, the alliance reserves the right to remove this player from the alliance, as these actions damage the entire alliance.
 
-6. In the event of disputes, the "war god" or "boss" makes the final decision with special (double) voting rights. The aim is always to achieve a majority decision (adjusted to attendance) by R4. (At least 5 votes that are of the same opinion or boss with 2 others. However, if time is a significant factor, the boss or appointed representative can make a decision in favor of the alliance themselves. After the incident, it is also essential to exchange information with the leadership about why and then to inform the alliance about the procedure in order to ensure transparency as to why the expulsion was/is justified.
+6. In the event of disputes, the "God of War, Administrator" or boss makes the final decision. Time should also be a decisive factor due to the special position. In all other matters, the alliance is decided by majority vote by R4. The simple majority of those present applies, but at least 5 votes. The boss and the named representatives are granted special rights to lead the alliance for situations that have not yet been named, including:
+
+* Removing members from the alliance
+* Controlling war events
+* Canceling or starting events
+* Promoting or warning members
+* Moving members up the ranks
+
+All of the points mentioned must be explained after the alliance has been completed.
 
 :warning: In the event of a serious violation of generally known law in relation to insulting, harassing or threatening other players, they will inevitably be kicked with a screenshot and will be completely banned as alliance members and placed on the "black list".
 

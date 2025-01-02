@@ -36,9 +36,17 @@ Hier findet man unsere Regeln
 
 4. Die Allianz verpflichtet sich, Angriffe von unseren Verbündeten ERAD " The Walking Beer“ zu unterstützen. Im Gegenzug erwarten wir ebenfalls Unterstützung.
 
-5. LKWS (Trucks) und geheime Missionen, im eigenen Staat ( 926 ) sind untersagt. Vergehen werden ab dem kommenden Montag durch das Schaffner Event bestraft. Rausschmisse finden erstmal keine mehr statt. Dennoch werden „Die Übeltäter oder Wiederholungstäter eine Woche vom Schaffner und Zugevent ausgeschlossen. Dies dient den Spielern, die sich an die Regeln halten so wie der Gemeinschaft um zukünftige Probleme mit anderen Allianzen zu entgehen und soll die Führung sowie die R4 und das Spielgefühl entlassen, da die R5 und R4 kaum noch zum Spielen kommen, da sie hauptsächlich mit Regelbrüchen konfrontiert sind.  Heist im Klartext der Schaffner wählt keine Regelbrecher zum Mitfahren aus und wird auch beim Würfelevent keiner der die Regeln gebrochen hat berücksichtigt.
+5. LKW´s und Geheimmissionen dürfen nur auf andere Server geplündert werden. Bei einem Vertoß muss der Verursacher einen LKW mit kleinem Trupp besetzt dem geschädigten einrichten. Sollten mehrere vertöße gegen diese Regel stattfinden so nimmt sich die Allianz das Recht diesen Spieler aus der Allianz zu entfernen da diese Taten die ganzen Allianz schädigen.
 
-6. Bei Streitigkeiten trifft der "Kriegs-Gott" oder "Chef/in" die endgültige Entscheidung mit besonderem ( zweifachen ) Stimmrecht. Es ist stehts anzustreben eine Mehrheitsentscheidung ( angepasst an Anwesenheit ) durch R4 herbei zu führen. (Mindestens 5 Stimmen die der gleichen Meinung sind oder boss mit 2 weiteren . Sollte jedoch Zeit ein erheblichen Faktor sein, steht es dem Chef/in oder ernannte Vertreter, zu Entscheidung zu Gunsten der Allianz selbst zu treffen. Ebenfalls ist nach dem Geschehnis unumgänglich Informationsaustausch mit der Führung zu halten warum und dann auch die Allianz über das Vorgehen in Kenntnis zur Transparenz zu setzen warum der Rausschmiss gerechtfertigt war/ ist.
+6. Bei Streitigkeiten trifft der "Kriegsgott, Verwalter" oder Chef die endgültige Entscheidung. Ebenso sollte Zeit ein entscheidender Faktor sein auf Grund der besonderen Position. In allen anderen belangen wird durch mehrheits Abstimmung über die Allianz durch R4 entschieden. Dabei gilt die einfache Mehrheit der Anwesenden, jedoch mindestens 5 Stimmen. Besondere Rechte an der Führung der Allianz werden dem Chef und die genannten Vertretter eingeräumt für Situationen die noch nicht benannt worden sind, dazu zählen:
+
+* Mitglieder aus der Allianz entfernen
+* Kriegsgeschehen zu Steuern
+* Events abzusagen oder zu starten
+* Mitglieder befördern oder verwarnen
+* Mitglieder in den Rängen zu verschieben
+
+Alle genannten Punkte müssen nach Vollendung der Allianz erläutert werden.
 
 :warning: Bei Groben Regelverstoß gegen allgemein Bekanntes Recht im Bezug auf Beleidigung Belästigung oder Bedrohung anderer Spieler werden diese unumgänglich gekickt mit Screenshot und werden als Allianzmitglieder komplett gebannt und kommen auf die „Schwarze Liste“.
 
