@@ -27,6 +27,12 @@ pageRef = "guides"
 weight = 10
 
 [[main]]
+parent = "Anleitungen"
+name = "kostenlose Teleports"
+pageRef = "guides/2025-01-free-teleports"
+weight = 10
+
+[[main]]
 name = "Links"
 
 [[main]]
