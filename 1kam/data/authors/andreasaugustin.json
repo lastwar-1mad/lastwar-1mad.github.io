@@ -1,11 +1,8 @@
 {
   "name": "Andreas Augustin",
-  "email": "info@andreas-augustin.dev",
-  "imageQuality": 96,
-  "headline": "It's me",
   "image": "img/authors/andreasaugustin.png",
   "bio": "Cloud enthusiast",
-  "links": [
+  "social": [
     {
       "email": "mailto:info@andreas-augustin.dev"
     },

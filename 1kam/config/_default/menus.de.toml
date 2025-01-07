@@ -33,6 +33,12 @@ pageRef = "guides/2025-01-free-teleports"
 weight = 10
 
 [[main]]
+parent = "Anleitungen"
+name = "Sweet teilt Tipps und Tricks"
+pageRef = "guides/2025-01-sweet-tipps-and-tricks"
+weight = 10
+
+[[main]]
 name = "Links"
 
 [[main]]

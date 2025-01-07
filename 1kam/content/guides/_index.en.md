@@ -25,4 +25,5 @@ showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
 ---
-Guides
+
+Here you can find some useful guides
