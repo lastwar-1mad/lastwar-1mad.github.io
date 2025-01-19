@@ -39,6 +39,12 @@ pageRef = "guides/2025-01-sweet-tipps-and-tricks"
 weight = 10
 
 [[main]]
+parent = "Anleitungen"
+name = "Sebos Anleitungen"
+pageRef = "guides/2025-01-sebos-guides"
+weight = 10
+
+[[main]]
 name = "Links"
 
 [[main]]

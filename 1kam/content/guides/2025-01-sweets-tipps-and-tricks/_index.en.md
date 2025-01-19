@@ -38,3 +38,15 @@ If you have too many losses to defeat too strong monsters in order to get a kill
 - Start a rally against your monster with the previously configured squad
 
 Voila. This means you have almost no units with you and the strong friends will defeat the monster.
+
+## Daily ToDos
+
+- In the VS arena, give 3 thumbs up in both areas (30 thumbs each)
+- do daily tasks (bottom left, walkie talkie)
+- click the VIP symbol, pick up the box for VIP points in the top right and the daily freebies in the middle
+- click on the diamond shop at the top right, open the free box for the daily sale and weekly pass
+- Season 1 field on the right, then Season Battle Pass, complete daily tasks
+- morning + evening: research Alliance Techs
+- morning + evening (24h durability) pick up Alliance Gifts
+- if active: look for daily tasks in hot deals (almost at the top right)
+- attack code monsters (events, then far back) 3* when spawned

@@ -29,7 +29,7 @@ layoutBackgroundHeaderSpace: false
 
 ![sweet](sweetWW.png)
 
-## starken Monstern fast ohne Verluste besiegen
+## starke Monster fast ohne Verluste besiegen
 
 Falls ihr zu grosse Verluste habt um zu starke Monster zu besiegen um z.B. einen Kill-Bonus zu erhalten gibt es folgenden tolle Möglichkeit.
 
@@ -38,3 +38,15 @@ Falls ihr zu grosse Verluste habt um zu starke Monster zu besiegen um z.B. einen
 - Startet eine Versammlung gegen euer Monster mit dem vorher Konfigurierten Squad
 
 Voila. Damit habt ihr fast keine Einheiten mit dabei und die starken Freunde werden das Monster besiegen.
+
+## Daily Todos
+
+- Bei VS arena in beiden bereichen jeweils 3 Thumbs up geben (30 dias jeweils)
+- daily tasks (unten links, walki talki) machen
+- VIP symbol klicken, rechts oben die Kiste für VIP Punkte und mittig die Daily Freebies abholen
+- oben rechts auf den Diamantenshop, bei Daily Sale und Weekly Pass jeweils die Gratiskiste öffnen
+- rechts Season 1 Feld, dann Season Battle Pass, daily Tasks absolvieren
+- morgens + abends: Alliance Techs erforschen
+- morgens + abends (24h Haltbarkeit) Alliance Gifts abholen
+- falls aktiv: bei Hot deals (fast ganz oben rechts) nach Tagesaufgaben schauen
+- Code-Monster (Events, dann weit hinten) 3* angreifen wenn gespawnt
