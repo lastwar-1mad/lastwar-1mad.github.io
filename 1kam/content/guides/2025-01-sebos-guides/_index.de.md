@@ -32,9 +32,9 @@ layoutBackgroundHeaderSpace: false
 ## Wie meldet man sich beim Wüstensturm an
 
 - Auf den Button Events klicken, danach auf die Rubrik "Schlachtfeld Wüstensturm" gehen.
-- Dort auf "Teilnehmer" auswählen klicken.
+- Dort auf "Teilnehmer" auswählen klicken. ![choose-participant](choose_participant.png)
 - Es erscheint ein Bildschirm wo ihr ein Häckchen setzen könnt für die "Hauptkampftruppe" oder "Reserve/Ersatz"
   - Uhrzeit muss nicht ausgewählt werden
-- :warning: abschliessend muss der button "Antrag zum Kampf" gedrückt werden!
+- :warning: abschliessend muss der button "Antrag zum Kampf" gedrückt werden! ![apply-to-fight](apply_to_fight.png)
 
 :ninja: Es werden nur noch Anmeldungen über dieses System angenommen
