@@ -28,6 +28,8 @@ tags:
 - guides
 ---
 
+## Saturdays
+
 Each Saturday you are able to do a free teleport.
 
 :warning: it is recommended to have an activated shield. The shield will persist if you teleport onto another server.
@@ -40,3 +42,16 @@ Each Saturday you are able to do a free teleport.
 This will teleport you to the VS server for free. To get back just do the same steps.
 
 :ninja: this is actually a nice way to be able to teleport for free.
+
+## Season 1
+
+Within season1 you have the possibility to teleport each day for free.
+
+| Schritt | Bild |
+| ------- | ---- |
+| **click season 1** | ![season1_main](season1_main.png) |
+| **click season1** | ![season1_sub](season1_sub.png) |
+| **click grouping** | ![season1_grouping](season1_grouping.png) |
+| **choose server and click go**| ![season1_go](season1_go.png) |
+
+:ninja: This is another nice method to teleport for free
