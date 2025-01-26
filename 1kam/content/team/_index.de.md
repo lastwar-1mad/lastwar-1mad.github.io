@@ -37,6 +37,12 @@ layoutBackgroundHeaderSpace: false
 | ![ak1291](img/ak1291.png) | **ak1291** | | AK, rekrutiert von Außerhalb, schnell aufgestiegen zum R4 und das völlig zu Recht! Karriereleiter wurde im Sprint genommen, genau wie feindliche Basen angegangen werden. |
 | ![cat](img/cat.png) | **Catville** | | Catville, ein Paradies für Katzen, ist verrückt nach Kisten wie alle Katzen - meow, meow, meow....klar soweit? |
 | ![hydra](img/hydra.jpg) | **Ancienthydra** | | Hydra, der Mann der nur wenig spricht, doch mit einer Nase wie ein Spürrhund alles riecht - er kam, er sah und er weiß wo die Diamanten liegen! |
-| ![chris](img/chris.jpg) | **ChrisKes3112** | | ChrisKes, der Mann der wenigen Worte. Aber kein problem, seine Taten sind lauter als seine Sätze! |
 | ![mimi](img/mimi.jpg) | **Mimi15** | | Mimi, Gründerin, Mum und Geist in einem -  der wahre Beweis, dass Multitasking in jeder Lebenslage der wahre Trick ist. |
+| ![sebo](img/sebo.png) | **Seborianer** | | Seborianer, der Mann der Höflichkeit erfunden hat, Schriftsteller des Guten Wortes. Doch weh der Ruf zum Raid dann fliegen 2 Fäuste des Hallo - natti snatti |
 | ![andz](img/andz.jpg) | **andzandz** | | Andzandz, unser wandelndes Lexikon. Kann zwar die Hälfte der Wiki-Artikel auswendig, ist aber mit Zahlen auf dem Kriegsfuss |
+
+## Ehrentafel
+
+| **avatar** | **name** | **Details** | **Beschreibung** |
+| ---------- | -------- | ------------ | ---------------- |
+| ![chris](img/chris.jpg) | **ChrisKes3112** | Chris war aktives **R4** Mitglied | ChrisKes, der Mann der wenigen Worte. Aber kein problem, seine Taten sind lauter als seine Sätze! |

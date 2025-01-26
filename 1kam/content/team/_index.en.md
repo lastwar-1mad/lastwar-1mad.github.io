@@ -36,6 +36,12 @@ layoutBackgroundHeaderSpace: false
 | ![ak1291](img/ak1291.png) | **ak1291** | | AK, recruited from outside, quickly rose to R4 and rightly so! Career ladder was taken in a sprint, just like enemy bases are attacked. |
 | ![cat](img/cat.png) | **Catville** | | Catville, a paradise for cats, is crazy about boxes like all cats - meow, meow, meow....get it? |
 | ![hydra](img/hydra.jpg) | **Ancienthydra** | | Hydra, the man who speaks little but smells everything with a nose like a bloodhound - he came, he saw and he knows where the diamonds are! |
-| ![chris](img/chris.jpg) | **ChrisKes3112** | | ChrisKes, the man of few words. But no problem, his actions speak louder than his words! |
 | ![mimi](img/mimi.jpg) | **Mimi15** | | Mimi, founder, mum and mind all in one - true proof that multitasking is the real trick in every situation. |
+| ![sebo](img/sebo.png) | **Seborianer** | | Seborianer, the man who invented politeness, writer of the good word. But when the call to the raid is heard, two fists of hello fly - natti snatti |
 | ![andz](img/andz.jpg) | **andzandz** | | Andzandz, our walking encyclopedia. He can recite half of the Wiki articles by heart, but is at war with numbers |
+
+## Wall of honor
+
+| **avatar** | **name** | **details** | **description** |
+| ---------- | -------- | ------------ | ---------------- |
+| ![chris](img/chris.jpg) | **ChrisKes3112** | Chris was for a long time an active R4 member | ChrisKes, the man of few words. But no problem, his actions speak louder than his words! |
