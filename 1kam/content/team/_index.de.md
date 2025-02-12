@@ -46,4 +46,4 @@ layoutBackgroundHeaderSpace: false
 | **avatar** | **name** | **Details** | **Beschreibung** |
 | ---------- | -------- | ------------ | ---------------- |
 | ![chris](img/chris.jpg) | **ChrisKes3112** | Chris war aktives **R4** Mitglied | ChrisKes, der Mann der wenigen Worte. Aber kein problem, seine Taten sind lauter als seine Sätze! |
-| ![mandi](img/mandi.png) | **mandi** | Mandi war aktives **R4** Mitglied | Mandi, immer ein offenes Ohr. Frust und schlechte Laune von Allianz Mitgliedern verreibt er mit seinen warmen Worten Worten sofort. |
+| ![mandi](img/mandi.png) | **mandi** | Mandi war aktives **R4** Mitglied | Mandi, immer ein offenes Ohr. Frust und schlechte Laune von Allianz Mitgliedern verreibt er mit seinen warmen Worten sofort. |
