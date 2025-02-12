@@ -45,3 +45,4 @@ layoutBackgroundHeaderSpace: false
 | **avatar** | **name** | **details** | **description** |
 | ---------- | -------- | ------------ | ---------------- |
 | ![chris](img/chris.jpg) | **ChrisKes3112** | Chris was for a long time an active R4 member | ChrisKes, the man of few words. But no problem, his actions speak louder than his words! |
+| ![mandi](img/mandi.png)| **mandi**| mandi was for a long time an active R4 member | Mandi, always an open ear. He immediately rubs away the frustration and bad moods of Allianz members with his warm words|
