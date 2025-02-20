@@ -70,3 +70,7 @@ Alle genannten Punkte müssen nach Vollendung der Allianz erläutert werden.
 13. Wer sich wiederholt nicht an die Gebote hält wird auf den niedrigsten Rang gesetzt und nach 2 Tagen durch den R5 und nur durch ihn aus der Allianz entfernt. Mit Erklärung an die Allianz und denjenigen der rausgeworfen wird. Ein erneuter eintritt ist nur mit vorheriger Gemeinsamer Absprache möglich.
 
 14. Ausgaben: Eine Ausgabe an realem Geld ist jeden Selbst überlassen dieses wird weder negativ betrachtet noch gefördert. Es dient dem jenigen selbst und nur ihm. Kein Mitglied ist verpflichtet Geld auszugeben. Sollte es von einem anderen Mitglied dahingehend gedrängt oder gefordert werden zu spenden oder gezwungen werden ist sofort zu melden und wird unumgänglich gekickt.
+
+15. Mindestens 5M Punkte im VS pro Woche
+
+16. Mindestens 15k Spendenpunkte in der Allianz Technologie pro Woche

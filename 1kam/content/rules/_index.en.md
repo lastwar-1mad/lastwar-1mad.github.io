@@ -71,3 +71,7 @@ All of the points mentioned must be explained after the alliance has been comple
 13. Anyone who repeatedly fails to comply with the commandments will be placed at the lowest rank and removed from the alliance after 2 days by the R5 and only by him. With an explanation to the alliance and the person who is thrown out. Re-entry is only possible with prior mutual agreement.
 
 14. Spending: Spending real money is up to each individual; this is neither viewed negatively nor encouraged. It serves the individual and only him. No member is obliged to spend money. Should another member pressure or demand it, they should
+
+15. At least 5M points in VS per week
+
+16. At least 15k donation points in Allianz Technology per week
