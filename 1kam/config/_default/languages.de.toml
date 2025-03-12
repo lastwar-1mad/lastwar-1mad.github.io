@@ -2,7 +2,7 @@ disabled = false
 languageCode = "de"
 languageName = "Deutsch"
 weight = 1
-title = "1KAM"
+title = "1MAD"
 
 [params]
 displayName = "DE"
@@ -11,7 +11,7 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "img/team1.png"
 secondaryLogo = "img/team2.png"
-description = "LastWar 1Kam alliance"
+description = "LastWar 1MAD alliance"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 # [params.author]

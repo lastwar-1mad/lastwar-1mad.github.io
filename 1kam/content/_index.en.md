@@ -1,7 +1,7 @@
 ---
-title: "1KAM"
+title: "1MAD"
 draft: false
-description: "Hello we are 1KAM."
+description: "Hello we are 1MAD."
 
 authors:
 - andreasaugustin
@@ -28,6 +28,6 @@ layoutBackgroundHeaderSpace: false
 
 Hello!
 
-We are **1KAM** an alliance playing [lastwar][lastwar].
+We are **1MAD** an alliance playing [lastwar][lastwar].
 
 [lastwar]: https://www.lastwar.com/
